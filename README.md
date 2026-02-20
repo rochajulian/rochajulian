@@ -6,7 +6,7 @@
 
 I'm a full-stack developer who builds scalable web applications with React, Next.js, TypeScript, and Node.js.
 
-**Recent grad from Lewis University** (CS + Music, May 2024) with hands-on experience shipping real products and delivering results for clients.
+**Grad from Lewis University** (CS + Music, May 2024) with hands-on experience shipping real products and delivering results for clients.
 
 ## 🏆 What I've Built
 
